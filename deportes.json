@@ -1,0 +1,36 @@
+{
+    "deportes": [
+        {
+            "nombre": "fútbol",
+            "valor": 30.000
+        },
+        {
+            "nombre": "baloncesto",
+            "valor": 40.000
+        },
+        {
+            "nombre": "tenis",
+            "valor": 30.000
+        },
+        {
+            "nombre": "karate",
+            "valor": 50.000
+        },
+        {
+            "nombre": "natación",
+            "valor": 35.000
+        },
+        {
+            "nombre": "rugby",
+            "valor": 40.000
+        },
+        {
+            "nombre": "esgrima",
+            "valor": 45.000
+        },
+        {
+            "nombre": "boxeo",
+            "valor": 50.000
+        }
+    ]
+}
